@@ -1,2 +1,3 @@
 # JavaScript Fundamentals
-Some JS projects.
+
+Some JS simple projects.
