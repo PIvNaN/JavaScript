@@ -74,7 +74,7 @@ function solve(args) {
                 case 19:
                     return "nineteen";
                 default:
-                    return "How do you get there?"
+                    return "Error"
             }
         } else {
             switch (secondDigitTemp) {
@@ -97,7 +97,7 @@ function solve(args) {
                 case 0:
                     return "";
                 default:
-                    return "How do you get there?";
+                    return "Error";
             }
         }
     };
@@ -125,7 +125,7 @@ function solve(args) {
             case 0:
                 return "";
             default:
-                return "How do you get there";
+                return "Error";
         }
     };
 
